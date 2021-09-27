@@ -112,15 +112,15 @@ class Profile extends React.Component {
                     <Col className="order-lg-1" lg="4">
                       <div className="card-profile-stats d-flex justify-content-center">
                         <div>
-                          <span className="heading">0</span>
+                          <span className="heading">30</span>
                           <span className="description">Friends</span>
                         </div>
                         <div>
-                          <span className="heading">0</span>
+                          <span className="heading">1</span>
                           <span className="description">Photos</span>
                         </div>
                         <div>
-                          <span className="heading">0</span>
+                          <span className="heading">30</span>
                           <span className="description">Comments</span>
                         </div>
                       </div>
